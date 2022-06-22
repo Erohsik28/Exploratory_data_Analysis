@@ -5,3 +5,5 @@ This Project involves conducting EDA on two different datasets to derive insight
 Two different .csv files are the available datasets for the analysis. 
 1. customer_details.csv
 2. customer_policy_details.csv
+
+Data cleaning is done separately on the two data sets and are merged together.
